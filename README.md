@@ -2,7 +2,9 @@
 
 **CPT202 — Software Engineering Group Project**
 
-A community heritage platform for sharing resources, reviewing submissions, and managing collections. Built with Spring Boot and MySQL.
+A community heritage platform for browsing and sharing resources, reviewing submissions, and managing collections. Built with Spring Boot and MySQL, it supports contributors, reviewers, and administrators, with comments and feedback for visitors.
+
+[Original project](https://github.com/suibianlong/CPT202-Final)
 
 ## Run
 
@@ -14,4 +16,3 @@ chmod +x mvnw
 ./mvnw spring-boot:run
 ```
 
-Open http://localhost:8080/index.html.
