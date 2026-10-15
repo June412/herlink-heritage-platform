@@ -4,6 +4,18 @@ HerLink is a full-stack community heritage resource sharing and curation platfor
 
 The system is implemented with a Spring Boot backend, a static HTML/CSS/Vanilla JavaScript frontend, a MySQL database, Docker-based deployment support, Nginx reverse proxy configuration, and GitHub Actions CI/CD automation.
 
+## Academic Context
+
+| Field | Details |
+| --- | --- |
+| University | Xi'an Jiaotong-Liverpool University (XJTLU) |
+| Module | CPT202 — Software Engineering Group Project |
+| Project type | Group coursework |
+| Portfolio owner | Junyan He (team member) |
+| Original team repository | [suibianlong/CPT202-Final](https://github.com/suibianlong/CPT202-Final) |
+
+This project was developed collaboratively. This fork presents the shared team project as part of Junyan He's portfolio.
+
 ---
 
 ## Table of Contents
